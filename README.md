@@ -1,5 +1,5 @@
 # calibre-server
-This script starts a Calibre server on startup and outputs server name and
+This script starts a Calibre server on boot and outputs server name and
  IP address to an LCD.  A momentary push-button is used to create a 
 reboot or shutdown of the system.
 
