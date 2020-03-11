@@ -13,4 +13,5 @@ Type=Application
 Name=Calibre
 Exec=/usr/bin/python3 /home/pi/calibre-server/calibre-boot.py
 
+Reboot the Pi
 
